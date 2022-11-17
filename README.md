@@ -11,14 +11,14 @@
 * jb-rpd-splash 99.10.10
 * https://checkmarx.com/blog/a-new-type-of-supply-chain-attack-could-put-popular-admin-tools-at-risk/
 
-## TypoSqutting 
+## TypoSquatting 
 * Moment (https://www.npmjs.com/package/moment) vs. Momnet (https://www.npmjs.com/package/momnet)
 * https://checkmarx.com/blog/recently-discovered-supply-chain-worm/
 
 ## ChainJacking (Go / Swift)
 * https://checkmarx.com/blog/a-new-type-of-supply-chain-attack-could-put-popular-admin-tools-at-risk/
 
-## Hacktisim/Protetsware 
+## Hacktivisim/Protestsware 
 * node-ipc_9.2.2
 * "Don't trust code from strangers" or more importantly, should you trust contributers who have a questioanble past?
 RIAEvangelist was responsible for a Hacktivism act against the Russian/Ukraine War introducing a "Peacenotwar" package in NPM - node-ipc_9.2.2. They also maintain 40+ other Open Source projects like event-pubsub (not malicious)
